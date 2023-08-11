@@ -21,4 +21,4 @@ My name is Henry (he/him), and I am a first-year PhD student in the Department o
 
 I am broadly interested in statistical machine learning and optimization. As a PhD student, I look forward to **expanding scientific understanding of modern machine learning algorithms so that they may be applied with greater confidence**. I am especially excited by the issues of interpretability and sample efficiency. 
 
-Find my CV [here](). My graduate studies are gratefully supported by the National Science Foundation Graduate Research Fellowship (GRFP).
+Find my CV [here](/assets/pdf/my-cv.pdf). My graduate studies are gratefully supported by the National Science Foundation Graduate Research Fellowship (GRFP).
