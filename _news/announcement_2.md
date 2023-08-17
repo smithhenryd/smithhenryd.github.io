@@ -4,4 +4,4 @@ date: 2023-09-26
 inline: true
 related_posts: false
 ---
-I started my PhD in Statistics at Stanford University. Go cardinals!
+I started my PhD in Statistics at Stanford University. Go trees! :evergreen_tree:
