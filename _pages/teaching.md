@@ -7,7 +7,9 @@ nav: true
 nav_order: 5
 ---
 ### At Stanford
-...
+I served as a teaching assistant for the following courses:\\
+&emsp;(Spring 2024) STATS 60: Introduction to Statistics
+
 ### At Yale
 I served as an undergraduate teaching assistant for the following courses:\\
 &emsp;(Spring 2022) S&DS 365/665: Intermediate Machine Learning\\
