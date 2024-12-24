@@ -8,6 +8,7 @@ nav_order: 5
 ---
 ### At Stanford
 I served as a teaching assistant for the following courses:\\
+&emsp;(Fall 2024) STATS 202: Statistical Learning and Data Science (**head teaching assistant**)\\
 &emsp;(Spring 2024) STATS 60: Introduction to Statistics
 
 ### At Yale
