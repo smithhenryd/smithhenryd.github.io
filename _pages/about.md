@@ -17,8 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Henry (he/him), and I am a second-year PhD student in the Department of Statistics at [Stanford University](https://statistics.stanford.edu/), where I am also a Knight-Hennessy scholar. Prior to beginning my PhD, I spent a year as a research assistant at the University of Cambridge Department of Computer Science. In 2022, I graduated from Yale University with a B.S. in statistics and mathematics. 
+My name is Henry (he/him), and I am a second-year PhD student in the Department of Statistics at [Stanford University](https://statistics.stanford.edu/), where I am fortunate to be advised by Professors [Scott Linderman](https://web.stanford.edu/~swl1/) and [Brian Trippe](https://briantrippe.com/). My graduate studies are graciously supported by the [Knight-Hennessy fellowship](https://knight-hennessy.stanford.edu/) and the National Science Foundation Graduate Research Fellowship (GRFP).
 
-I am interested in probabilistic machine learning (probabilistic ML) and, more generally, stochastic processes. As a PhD student, I hope to expand scientific understanding of modern machine learning algorithms so that they may be applied with greater confidence. I am especially excited by the issues of model interpretability and sample efficiency. 
+Prior to beginning my PhD, I spent a year working as a research assistant for [Professor Amanda Prorok](https://proroklab.org/) at the University of Cambridge. In 2022, I graduated from Yale University with a B.S. in statistics and mathematics. 
 
-Find my CV [here](/assets/pdf/Henry-Smith-CV.pdf). My graduate studies are graciously supported by the National Science Foundation Graduate Research Fellowship (GRFP). 
+I am interested in applied probability and probabilistic machine learning (probabilistic ML); I am especially excited about continuous-time latent variable models. As a PhD student, I hope to advance scientific understanding of modern machine learning models and algorithms so they may be applied with greater confidence.
+
+Find my CV [here](/assets/pdf/Henry-Smith-CV.pdf).
